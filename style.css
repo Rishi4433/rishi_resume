@@ -394,7 +394,8 @@ section:nth-child(2n + 1) {
 
 #education {
     height: auto;
-    background-color: #ddf2f5;
+    background-color: rgb(224, 236, 253);
+    /* background-color: #ddf2f5; */
 }
 
 .timeline {
@@ -458,7 +459,7 @@ section:nth-child(2n + 1) {
     /* padding: 1rem; */
     /* padding-bottom: 1rem; */
     width: 0;
-    height: 70%;
+    height: 60%;
     border: 2px dashed #08b4f8;
     left: 48%;
 }
@@ -494,7 +495,8 @@ section:nth-child(2n + 1) {
     width: 100%;
     /* display: flex; */
     overflow: auto;
-    background-color: rgb(204, 218, 238);
+    background-color: #ddf2f5;
+    /* background-color: rgb(204, 218, 238); */
 }
 
 .ac {
